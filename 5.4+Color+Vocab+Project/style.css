@@ -1,0 +1,54 @@
+img{
+    height: 250px;
+    width: 300px;
+}
+
+
+.color-title{
+    font-weight: normal;
+}
+
+
+h1 {
+  color: navy;              
+  
+  font-family: "Georgia", serif;  
+  text-align: center;        
+}
+
+
+h2 {
+  color: darkgreen;               
+  
+  font-family: "Verdana", sans-serif; 
+  font-weight: bold;
+}
+
+
+
+
+.color-title {
+  font-size: 20px;
+  
+}
+
+
+#red{
+    color: red;
+}
+
+#blue{
+    color:blue
+}
+
+#orange{
+    color:orange
+}
+
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}
